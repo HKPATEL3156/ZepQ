@@ -1,7 +1,6 @@
 name: zepq
 # Description of the project
 # This is a new Flutter project for ZapQ.
-# this is the mini project of mad subject
 description: "ZapQ –  Smart Virtual Queue & Shop Management App"
 
 # Prevent accidental publishing to pub.dev
