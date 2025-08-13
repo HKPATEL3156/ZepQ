@@ -1,0 +1,35 @@
+name: zepq
+# Description of the project
+# This is a new Flutter project for ZapQ.
+description: "ZapQ – Smart Virtual Queue & Shop Management App"
+
+# Prevent accidental publishing to pub.dev
+publish_to: 'none'
+
+# Version and build number for the application
+version: 1.0.0+1
+
+# Environment constraints
+environment:
+  sdk: '>=3.8.0 <4.0.0'
+
+# Dependencies for the project
+dependencies:
+  flutter:
+    sdk: flutter
+cupertino_icons: ^1.0.8
+firebase_core: ^2.13.0
+firebase_auth: ^4.6.0
+cloud_firestore: ^4.8.0
+firebase_messaging: ^14.5.0
+
+
+# Development dependencies
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^6.0.0
+
+# Flutter-specific settings
+flutter:
+  uses-material-design: true
