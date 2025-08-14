@@ -4,9 +4,7 @@ name: zepq
 description: "ZapQ –  Smart Virtual Queue & Shop Management App"
 
 # Prevent accidental publishing to pub.dev
-# this is new version
-# this is new version
-# this is new version
+
 
 publish_to: 'none'
 
